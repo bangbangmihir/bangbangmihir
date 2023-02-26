@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mihir Kumar
 - 👀 I’m interested in Full stack devlopment and Hybrid app development 
-- 🌱 I’m currently working as Full stack developer.
+- 🌱 I’m currently working as a Full stack developer.
 
 
 <!---
